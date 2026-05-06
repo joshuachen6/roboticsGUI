@@ -2,6 +2,8 @@
 
 RoboticsGUI is an interactive graphical tool designed to simplify the generation of Road Runner trajectory code for FTC (First Tech Challenge) robots. It provides a visual interface for mapping out robot paths on a field, allowing developers to "drive" the virtual robot and automatically generate the corresponding Java code.
 
+<img width="3051" height="1844" alt="Screenshot_20260505_203830" src="https://github.com/user-attachments/assets/a239290a-e2d1-4dda-819a-1dc5adf7295a" />
+
 ## Key Features
 
 - **Real-time Path Visualization**: See exactly where your robot is on the field with a high-accuracy coordinate system.
